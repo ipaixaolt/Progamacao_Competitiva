@@ -1,22 +1,22 @@
 # Progamacao_Competitiva
 
-Este repositório reúne minhas soluções para problemas da plataforma [Beecrowd (https://www.beecrowd.com.br/), organizadas por categoria conforme a classificação da própria plataforma.
+Este repositório reúne minhas soluções para problemas da plataforma [Beecrowd](https://www.beecrowd.com.br/), organizadas por categoria conforme a classificação da própria plataforma.
 
 ## Estrutura do Repositório
-beecrowd/
-├── ad-hoc/
-├── estruturas_e_bibliotecas/
-├── grafos/
-├── iniciante/
-├── matematica/
-├── paradigmas/
-└── strings/
+beecrowd/ </br>
+├── ad-hoc/ </br>
+├── estruturas_e_bibliotecas/ </br>
+├── grafos/ </br>
+├── iniciante/ </br>
+├── matematica/ </br>
+├── paradigmas/ </br>
+└── strings/ </br>
 
-Cada subpasta contém soluções nomeadas de acordo com o **número do problema**, por exemplo:
-beecrowd/
-└── grafos/
-├── 1056.cpp
-└── 1057.cpp
+Cada subpasta contém soluções nomeadas de acordo com o **número do problema**, por exemplo: </br>
+beecrowd/ </br>
+└── grafos/ </br>
+├── 1056.cpp </br>
+└── 1057.cpp </br>
 
 ## Linguagem
 
